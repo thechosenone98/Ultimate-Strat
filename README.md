@@ -4,7 +4,7 @@ This is a mod for a Fender Stratocaster guitar. It consist of 6x8 analog switch 
 ## Features
 * Thousands of different combinations possible
 * EInk Display makes the 9V battery last for a very long time (1 year on the battery I used)
-* * Use your 5 way switch to change between 5 saved coil configurations
+* Use your 5 way switch to change between 5 saved coil configurations
 * You can save a profile (all 5 current configuration at once) by long pressing the rotary encoder for 4 seconds
 * Shutdown by long pressing until screen flickers to a striped pattern
 
@@ -20,3 +20,6 @@ This is a mod for a Fender Stratocaster guitar. It consist of 6x8 analog switch 
 <img src="https://github.com/thechosenone98/Ultimate-Strat/blob/master/ressources/GUITAR_PCB.png" alt="PCB Design" width="500"></a>
 
 ## Demo Video
+
+https://user-images.githubusercontent.com/13340366/190641746-d4eb1560-ac05-4fef-9a8d-d0e0ee25eceb.mp4
+
