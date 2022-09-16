@@ -21,5 +21,6 @@ This is a mod for a Fender Stratocaster guitar. It consist of 6x8 analog switch 
 
 ## Demo Video
 
-https://user-images.githubusercontent.com/13340366/190641746-d4eb1560-ac05-4fef-9a8d-d0e0ee25eceb.mp4
+https://user-images.githubusercontent.com/13340366/190642919-1a8ae7ef-d05f-4ea6-937c-83752d77b2c1.mp4
+
 
