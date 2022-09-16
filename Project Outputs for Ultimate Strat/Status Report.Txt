@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Ultimate_Strat_PCB.PcbDoc]
+   Generated File[Ultimate_Strat_PCB.GTL]
+   Generated File[Ultimate_Strat_PCB.GBL]
+   Generated File[Ultimate_Strat_PCB.GTO]
+   Generated File[Ultimate_Strat_PCB.GTP]
+   Generated File[Ultimate_Strat_PCB.GTS]
+   Generated File[Ultimate_Strat_PCB.GBS]
+   Generated File[Ultimate_Strat_PCB.GBP]
+   Generated File[Ultimate_Strat_PCB.GBO]
+   Generated File[Ultimate_Strat_PCB.GKO]
+   Generated File[Ultimate_Strat_PCB.RUL]
+   Generated File[Ultimate_Strat_PCB.EXTREP]
+   Generated File[Ultimate_Strat_PCB.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 2:55:37 PM On 12/27/2020

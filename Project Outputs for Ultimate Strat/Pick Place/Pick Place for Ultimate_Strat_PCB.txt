@@ -1,0 +1,50 @@
+Altium Designer Pick and Place Locations
+D:\Electronics Project\Altium\Ultimate Strat\Project Outputs for Ultimate Strat\Pick Place\Pick Place for Ultimate_Strat_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       06/11/20
+Time:       10:53
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer    Footprint                     Center-X(mil) Center-Y(mil) Rotation Description                                                                      
+R7         10K                TopLayer 0805R-10K                     4567.000      5463.000      270      RESISTOR 0805 1/4 WATT THIN FILM                                                 
+P9         9V CONNECTOR       TopLayer JST_BM02B-SRSS-TB_LF_SN_0     5084.000      4978.177      180      Header, 2-Pin                                                                    
+U7         PIC16LF1769-I/SO   TopLayer SO20W                         3672.905      5857.000      0        PIC PIC® XLP™ 16F Microcontroller IC 8-Bit 32MHz 14KB (8K x 14) FLASH 20-SOIC 
+U6         MAX395CAG+         TopLayer Maxim_Electronics_A24-2_IPC_C 2795.569      5918.252      360      No Description Available                                                         
+U5         MAX395CAG+         TopLayer Maxim_Electronics_A24-2_IPC_C 2352.431      5918.252      360      No Description Available                                                         
+U4         MAX395CAG+         TopLayer Maxim_Electronics_A24-2_IPC_C 2795.569      5515.547      360      No Description Available                                                         
+U3         MAX395CAG+         TopLayer Maxim_Electronics_A24-2_IPC_C 2352.431      5515.547      360      No Description Available                                                         
+U2         MAX395CAG+         TopLayer Maxim_Electronics_A24-2_IPC_C 2792.000      5113.000      360      No Description Available                                                         
+U1         MAX395CAG+         TopLayer Maxim_Electronics_A24-2_IPC_C 2352.431      5112.842      0        No Description Available                                                         
+P8         Header 4           TopLayer JST_BM04B-SRSS-TB_LF_SN_0     3770.201      5012.177      180      Header, 4-Pin                                                                    
+P7         Header 4           TopLayer JST_BM04B-SRSS-TB_LF_SN_0     3469.600      5012.177      180      Header, 4-Pin                                                                    
+P6         Header 4           TopLayer JST_BM04B-SRSS-TB_LF_SN_0     3168.764      5011.705      180      Header, 4-Pin                                                                    
+P5         GUITAR OUTPUT JACK TopLayer JST_BM02B-SRSS-TB_LF_SN_0     4031.431      5012.177      180      Header, 2-Pin                                                                    
+P4         5 WAY SWITCH       TopLayer JST_BM03B-SRSS-TB_LF_SN_0     4125.295      5822.551      270      Header, 3-Pin                                                                    
+P3         E-INK DISPLAY      TopLayer JST_BM08B-SRSS-TB_LF_SN_0     3678.262      5486.177      180      Header, 8-Pin                                                                    
+P2         ROTARY ENCODER     TopLayer JST_BM05B-SRSS-TB_LF_SN_0     3224.216      5842.630      90       Header, 5-Pin                                                                    
+P1         PICKIT             TopLayer JST_BM05B-SRSS-TB_LF_SN_0     4175.000      5486.177      180      Header, 5-Pin                                                                    
+IC1        MAX1726EUK33+T     TopLayer SOT23-5                       4631.500      5092.197      90       Integrated Circuit                                                               
+IC3        LM2664M6X_NOPB     TopLayer SOT95P280X145-6N              5092.000      5179.598      180      Integrated Circuit                                                               
+IC2        MAX1726EUK50+T     TopLayer SOT23-5                       4314.500      5092.197      270      Integrated Circuit                                                               
+C6         3.3uF              TopLayer CAPAE430X550N                 4868.000      5178.000      90       Capacitor Polarised                                                              
+C5         3.3uF              TopLayer CAPAE430X550N                 5308.000      5177.000      90       Capacitor Polarised                                                              
+C4         1uF                TopLayer 0805C-GENERIC                 4317.000      5259.000      360      1µF ±10% 25V Ceramic Capacitor X7R 0805 _2012 Metric_                          
+C3         1uF                TopLayer 0805C-GENERIC                 4317.000      4943.000      180      1µF ±10% 25V Ceramic Capacitor X7R 0805 _2012 Metric_                          
+C2         1uF                TopLayer 0805C-GENERIC                 4629.000      4937.000      180      1µF ±10% 25V Ceramic Capacitor X7R 0805 _2012 Metric_                          
+C1         1uF                TopLayer 0805C-GENERIC                 4629.000      5245.000      360      1µF ±10% 25V Ceramic Capacitor X7R 0805 _2012 Metric_                          
+R1         10K                TopLayer 0805R-10K                     4315.000      5857.000      270      RESISTOR 0805 1/4 WATT THIN FILM                                                 
+R2         10K                TopLayer 0805R-10K                     4403.666      5857.000      270      RESISTOR 0805 1/4 WATT THIN FILM                                                 
+R3         10K                TopLayer 0805R-10K                     4491.000      5857.000      270      RESISTOR 0805 1/4 WATT THIN FILM                                                 
+R4         10K                TopLayer 0805R-10K                     4579.000      5857.000      270      RESISTOR 0805 1/4 WATT THIN FILM                                                 
+R5         10K                TopLayer 0805R-10K                     4688.000      5815.000      270      RESISTOR 0805 1/4 WATT THIN FILM                                                 
+C7         100nF              TopLayer 0805C-TBD                     4318.000      5675.000      90       CAPACITOR 0805 CERAMIC                                                           
+C8         100nF              TopLayer 0805C-TBD                     4403.666      5675.000      270      CAPACITOR 0805 CERAMIC                                                           
+C9         100nF              TopLayer 0805C-TBD                     4491.000      5675.000      270      CAPACITOR 0805 CERAMIC                                                           
+C10        100nF              TopLayer 0805C-TBD                     4580.000      5675.000      270      CAPACITOR 0805 CERAMIC                                                           
+C11        100nF              TopLayer 0805C-TBD                     4688.000      5655.000      270      CAPACITOR 0805 CERAMIC                                                           
+R6         10K                TopLayer 0805R-10K                     4403.666      5463.000      270      RESISTOR 0805 1/4 WATT THIN FILM                                                 
