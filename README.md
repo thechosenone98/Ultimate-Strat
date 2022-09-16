@@ -17,6 +17,6 @@ This is a mod for a Fender Stratocaster guitar. It consist of 6x8 analog switch 
 
 ## PCB Design
 <a href="https://github.com/thechosenone98/Ultimate-Strat/blob/master/ressources">
-<img src="https://github.com/thechosenone98/Ultimate-Strat/blob/master/ressources/GUITAR%20PCB%20V1.0.png" alt="PCB Design" width="500"></a>
+<img src="https://github.com/thechosenone98/Ultimate-Strat/blob/master/ressources/GUITAR_PCB.png" alt="PCB Design" width="500"></a>
 
 ## Demo Video
