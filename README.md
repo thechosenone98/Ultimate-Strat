@@ -1,12 +1,13 @@
 # Ultimate Strat
-This is a mod for a Fender Stratocaster guitar. It consist of 6x8 analog switch IC and allows to combine the 6 coils present inside 3 humbucker coils in any configuration you can image. To control it, you simply use a rotary encoder and the display tells you the current configuration you are in.
+This is a mod for a Fender Stratocaster guitar. It consist of 6x8 analog switch IC and allows to combine the 6 coils present inside 3 humbucker coils in any configuration you can imagine. To control it, you simply use a rotary encoder and the display tells you the current configuration you are in.
 
 ## Features
 * Thousands of different combinations possible
-* EInk Display makes the 9V battery last for a very long time (1 year on the battery I used)
+* E-Ink Display makes the 9V battery last for a very long time (~1 year on the battery I used)
 * Use your 5 way switch to change between 5 saved coil configurations
 * You can save a profile (all 5 current configuration at once) by long pressing the rotary encoder for 4 seconds
 * Shutdown by long pressing until screen flickers to a striped pattern
+* Click the rotary encoder to wake up the system
 
 
 ## Usage
